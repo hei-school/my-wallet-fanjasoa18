@@ -4,11 +4,9 @@
 ###GCC:
 This is the compiler that will be used to compile your C programs.
 
-###Text Editor/IDE:
-Choose a text editor or integrated development environment (IDE).
-
-###Steps:
-Make sure to install GCC and a text editor or IDE of your choice.
+##How to Install
+Clone the Java branch of the repository:
+git clone https://github.com/your-username/my-wallet.git --branch feature/c
 
 ###Compilation:
 Run the following command to compile the C program:
