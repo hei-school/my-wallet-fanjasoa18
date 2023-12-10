@@ -1,7 +1,12 @@
 #My Wallet Application
 
 ##Installation for C#:
+###Requirement:
 Install .NET Core SDK.
+
+##How to Install
+Clone the Java branch of the repository:
+git clone https://github.com/your-username/my-wallet.git --branch feature/c#
 
 Compilation and Execution
 Open a terminal or command prompt and navigate to the directory containing the .cs file.
