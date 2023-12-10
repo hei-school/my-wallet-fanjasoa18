@@ -45,8 +45,8 @@ function displayMenu() {
     console.log('\nMenu:');
     console.log('1. Creation de compte');
     console.log('2. Consultation de solde');
-    console.log('3. Depot d\'argent');
-    console.log('4. Retrait d\'argent');
+    console.log('3. Depot');
+    console.log('4. Retrait');
     console.log('5. Historique des transactions');
     console.log('6. Conversion de devises');
     console.log('7. Quitter');
