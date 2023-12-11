@@ -25,6 +25,7 @@ Support for multiple programming languages (JavaScript, Java, C, C#).
 
 #How to Install
 Choose the programming language branch you want to use.
+###Suggestion: We recommend trying the Javascript implementation first for the best experience. Navigate to the javascript-implementation branch(feature/javascript)
 
 JavaScript[https://github.com/hei-school/my-wallet-fanjasoa18/tree/feature/javascript]
 Java[https://github.com/hei-school/my-wallet-fanjasoa18/tree/feature/java]
